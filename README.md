@@ -33,13 +33,13 @@ Olá! Sou Mateus, desenvolvedor de software Full-Stack.
 
 <details>
     <summary>Linguagens que mais utilizo⚡</summary>
-    <br/>
-    <img alt="most-used-languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SolForte&theme=dracula&layout=compact"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolForte&theme=dracula&layout=donut)]
 </details>
 <details>
     <summary>Status do GitHub⚡</summary>
-    <br/>
-    <img alt="github-stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SolForte&show_icons=true&theme=dracula"/>
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SolForte&show_icons=true&theme=dracula)
 </details>
 
 
