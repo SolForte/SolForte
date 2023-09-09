@@ -1,7 +1,7 @@
-# Seja bem-vindo(a)! 👋
+# Seja bem-vindo(a)!👋
 Olá! Sou Mateus, desenvolvedor de software Full-Stack.
 
-## Principais stacks :wrench:
+## Principais stacks🔧
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
@@ -27,11 +27,21 @@ Olá! Sou Mateus, desenvolvedor de software Full-Stack.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )
 
-## No momento estou estudando :books:
+## No momento estou estudando📚
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-          
+<details>
+    <summary>Linguagens que mais utilizo⚡</summary>
+    <br/>
+    <img alt="most-used-languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SolForte&theme=dracula&layout=compact"/>
+</details>
+<details>
+    <summary>Status do GitHub⚡</summary>
+    <br/>
+    <img alt="github-stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SolForte&show_icons=true&theme=dracula"/>
+</details>
+
 
 <!--
 **SolForte/SolForte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
