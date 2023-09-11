@@ -30,7 +30,14 @@ Olá! Sou Mateus, desenvolvedor de software Full-Stack.
 ## No momento estou estudando📚
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<div>
+  <h2>Contato :telephone:</h2>
+  <a href="https://www.linkedin.com/in/mateus-brandao-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:mateusbrandao1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <br>
+</div>
 
+## Estatísticas 📊
 <details>
     <summary>Linguagens que mais utilizo⚡</summary>
 
