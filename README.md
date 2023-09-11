@@ -39,12 +39,12 @@ Hi! I'm Mateus, a 24 years old software developer, and also a guy very intereste
 
 ## Statistics 📊
 <details>
-    <summary>Linguagens que mais utilizo⚡</summary>
+    <summary>Most used languages⚡</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolForte&theme=dracula&layout=donut)]
 </details>
 <details>
-    <summary>Status do GitHub⚡</summary>
+    <summary>GitHub Status ⚡</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SolForte&show_icons=true&theme=dracula)
 </details>
