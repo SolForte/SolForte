@@ -1,7 +1,7 @@
-# Seja bem-vindo(a)!👋
-Olá! Sou Mateus, desenvolvedor de software Full-Stack.
+# Welcome!👋
+Hi! I'm Mateus, a 24 years old software developer, and also a guy very interested in reverse engineering. I've dropped out of my mechanical engineering bachelor's degree on 2022 and've been studying software development since then.
 
-## Principais stacks🔧
+## My Stack 🔧
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
@@ -27,7 +27,7 @@ Olá! Sou Mateus, desenvolvedor de software Full-Stack.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )
 
-## No momento estou estudando📚
+## Studying 📚
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 <div>
@@ -37,7 +37,7 @@ Olá! Sou Mateus, desenvolvedor de software Full-Stack.
     <br>
 </div>
 
-## Estatísticas 📊
+## Statistics 📊
 <details>
     <summary>Linguagens que mais utilizo⚡</summary>
 
