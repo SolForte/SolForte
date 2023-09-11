@@ -1,5 +1,5 @@
 # Welcome!👋
-Hi! I'm Mateus, a 24 years old software developer, and also a guy very interested in reverse engineering. I've dropped out of my mechanical engineering bachelor's degree on 2022 and've been studying software development since then.
+Hi! I'm Mateus, a 24 years old software developer, and also a guy very interested in reverse engineering. I've dropped out of my mechanical engineering bachelor's degree on 2022 and've been studying software development since then. My username is a homage to Teresina's sun, who even on winter is constantly and obscenely flashing it's 38°C/100.4°F UV rays.
 
 ## My Stack 🔧
 
