@@ -1,5 +1,5 @@
 # Welcome!👋
-Hi! I'm Mateus, software developer, and also a guy very interested in reverse engineering and task automation. I've took a temporary absence from my mechanical engineering bachelor's degree on 2022 and've been studying software development since then. My username is a homage to the sun of my city, who even on winter is constantly and obscenely flashing it's 38°C/100°F UV rays for everyone to enjoy a sweat.
+Hi! I'm Mateus, software developer, and also a guy very interested in reverse engineering and task automation. I've took a temporary absence from my mechanical engineering bachelor's degree on 2022 and've been studying software development since then. My username is a homage to the sun of my city, who even on winter is constantly and obscenely flashing it's UV rays for everyone to enjoy a sweat.
 
 ## My Stack 🔧
 
@@ -37,17 +37,6 @@ Hi! I'm Mateus, software developer, and also a guy very interested in reverse en
     <br>
 </div>
 
-## Statistics 📊
-<details>
-    <summary>Most used languages⚡</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolForte&theme=dracula&layout=donut)]
-</details>
-<details>
-    <summary>GitHub Status ⚡</summary>
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SolForte&show_icons=true&theme=dracula)
-</details>
 
 
 <!--
